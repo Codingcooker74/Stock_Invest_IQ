@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+venv32/
+.vscode/
+KOAStudioSA/
+.venv/
+.venv
+*.json
+!triple_targets.json
